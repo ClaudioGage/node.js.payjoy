@@ -27,7 +27,7 @@
     "passport-jwt": "^3.0.0",
     "rate-limit-redis": "^1.6.0",
     "remove-accents": "^0.4.2",
-    "sequelize": "^4.31.2",
+    "sequelize": "^5.15.1",
     "sequelize-cli": "^3.0.0",
     "serve-favicon": "~2.4.5",
     "uuid": "^3.3.3",
